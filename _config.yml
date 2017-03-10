@@ -3,8 +3,8 @@ title:       The Economics of Information, Compensation, and Football
 email:       arthur.morris@utah.edu
 author:      Arthur Morris
 description: "Notes on information economics, contracts, incentives, compensation, and football."
-baseurl:     ""
-url:         "AKentMorris.github.io"
+baseurl:     "/AKentMorris.github.io"
+url:         "http://AKentMorris.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
