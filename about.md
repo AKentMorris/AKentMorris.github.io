@@ -1,9 +1,12 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
+
+I am a PhD Candidate in Business Administration at the University of Utah, David Eccles School of Business. My coursework is in Accounting, Finance, Information Economics, Microeconomics, and Econometrics. My research focuses on incentives and project selection, while my teaching focuses on using data to make decisions. My [university bio](http://eccles.utah.edu/team/arthur-morris/) was edited by some marketing types and as such is not particularly accurate. However, the photograph is quite accurate.
+
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
