@@ -7,7 +7,7 @@ tags: about
 
 I am a PhD Candidate in Business Administration at the University of Utah, David Eccles School of Business. My coursework is in Accounting, Finance, Information Economics, Microeconomics, and Econometrics. My research focuses on incentives and project selection, while my teaching focuses on using data to make decisions. My [university bio](http://eccles.utah.edu/team/arthur-morris/) was edited by some marketing types, and, as such, is not particularly accurate. However, the photograph is quite accurate. I still wear those classes.
 
-Most of my writing here is devoted to thinking about the economics of information and contracts through [football](https://en.wikipedia.org/wiki/Association_football) (Americans: I apologize I am pedantic. Erstwhile Europeans (the English): You're welcome.). 
+Most of my writing here is devoted to thinking about the economics of information and contracts through [football](https://en.wikipedia.org/wiki/Association_football) (Americans: I apologize I am pedantic). Oh, and clothes. I talk about clothes sometimes. 
 
 
 
