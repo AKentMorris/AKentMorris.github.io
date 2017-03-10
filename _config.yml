@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       The Economics of Information, Compensation, and Football
+email:       arthur.morris@utah.edu
+author:      Arthur Morris
+description: "Notes on information economics, contracts, incentives, compensation, and football."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "AKentMorris.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -42,7 +42,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username:	"AKentMorris"
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
